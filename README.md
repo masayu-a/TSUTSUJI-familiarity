@@ -56,11 +56,10 @@ Proceedings of the Pacific Asia Conference on Language, Information and Computat
 ## Credit
 - つつじ version 1.1  -- 日本語機能表現の辞書
   松吉俊、佐藤理史 2016/04/20
-  CC BY-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
+  CC BY-SA 3.0 
   https://sites.google.com/edu.teu.ac.jp/cl-lab/研究/言語資源/日本語機能表現辞書つつじ
 - TSUTSUJI-familiarity -- つつじ単語親密度情報 -- version 1.0.0
-  国立国語研究所   2023/10/31
-  CC BY-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja  
-
+  国立国語研究所   2023/11/03
+  
 ## Contact
 masayu-a@ninjal.ac.jp
