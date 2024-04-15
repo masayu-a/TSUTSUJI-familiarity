@@ -1,4 +1,4 @@
-# TSUTSUJI-familiarity (version 2.0.0) (2024/02/11)
+# TSUTSUJI-familiarity (version 1.0.0) (2023/11/03)
 
 ## Description
 日本語機能表現辞書『つつじ』 version 1.1に対して、クラウドソーシングにより親密度情報・位相情報を付与したもの
@@ -37,7 +37,7 @@
 - 4列目：READ 印象評定:「読む」
 - 5列目：SPEAK 印象評定:「話す」
 - 6列目：WRITE 印象評定:「書く」
-- 7列目：5評定平均: (KNOW+LISTEN+READ+SPEAK+WRITE)/5
+- 7列目：5評定合計: KNOW+LISTEN+READ+SPEAK+WRITE
 - 8列目：書記 印象評定: READ+WRITE
 - 10列目：音声 印象評定: LISTEN+SPEAK
 - 11列目：生産 印象評定: SPEAK+WRITE
@@ -58,19 +58,8 @@ Proceedings of the Pacific Asia Conference on Language, Information and Computat
   松吉俊、佐藤理史 2016/04/20
   CC BY-SA 3.0 
   https://sites.google.com/edu.teu.ac.jp/cl-lab/研究/言語資源/日本語機能表現辞書つつじ
-- TSUTSUJI-familiarity -- つつじ単語親密度情報 -- version 2.0.0
-  国立国語研究所   2024/02/11
-
-## ChangeLog
-
-### 2.0.0 (2024/02/11)
-
-- L9 までの 23671 語を追加調査 (2024/01/01)
-- 集計方法を変更
-
-### 1.0.0 (2023/11/03)
-
-- L7 までの 6396 表層形を調査 (2022/12/29)
-
+- TSUTSUJI-familiarity -- つつじ単語親密度情報 -- version 1.0.0
+  国立国語研究所   2023/11/03
+  
 ## Contact
 masayu-a@ninjal.ac.jp
