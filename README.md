@@ -5,7 +5,7 @@
 
 ## Features 
 
-### TSUTSUJI-familiarity.txt
+### TSUTSUJI.txt
 
 1行目がヘッダ
 
